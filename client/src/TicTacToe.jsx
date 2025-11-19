@@ -437,7 +437,7 @@ export default function TicTacToeImproved() {
               WebkitTextFillColor: 'transparent',
               marginBottom: '8px'
             }}>
-              Tic Tac Toe
+              3 EN RAYA
             </h1>
             <p style={{ color: '#cbd5e1', marginBottom: '16px' }}>Online</p>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
@@ -588,7 +588,7 @@ export default function TicTacToeImproved() {
             WebkitTextFillColor: 'transparent',
             marginBottom: '8px'
           }}>
-            Tic Tac Toe
+            3 EN RAYA
           </h1>
           <p style={{ color: '#cbd5e1', fontSize: '18px', margin: '8px 0' }}>
             Eres: <span style={{ 
