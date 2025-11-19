@@ -558,7 +558,7 @@ export default function TicTacToeImproved() {
             color: '#cbd5e1',
             fontSize: '14px'
           }}>
-            <p style={{ fontWeight: '600', marginBottom: '8px' }}>🚀 Características:</p>
+            <p style={{ fontWeight: '600', marginBottom: '8px' }}>Mohamed Amara:</p>
             <ul style={{ paddingLeft: '20px', margin: 0 }}>
               <li>By AmaraX7 on GitHub</li>
             </ul>
