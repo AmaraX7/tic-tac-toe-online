@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe-server",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para Tic Tac Toe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "websocket",
+    "socket.io",
+    "tic-tac-toe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
