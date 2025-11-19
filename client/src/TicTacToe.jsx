@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useReducer } from 'react';
 import { X, Circle, RotateCcw, Users, Copy, Check, Wifi, WifiOff, MessageCircle, Send, Trophy, Eye, Clock } from 'lucide-react';
 
 // CAMBIAR POR TU URL DE SERVIDOR
-const SOCKET_URL = 'https://cuddly-journey-7jvppqgg7pgfqjp-3001.app.github.dev';
+const SOCKET_URL = 'https://tic-tac-toe-online-qkch.onrender.com';
 
 // Constantes para eventos del socket
 const SOCKET_EVENTS = {
