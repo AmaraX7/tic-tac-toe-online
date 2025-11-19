@@ -439,7 +439,7 @@ export default function TicTacToeImproved() {
             }}>
               Tic Tac Toe
             </h1>
-            <p style={{ color: '#cbd5e1', marginBottom: '16px' }}>Online con WebSocket</p>
+            <p style={{ color: '#cbd5e1', marginBottom: '16px' }}>Online</p>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
               {connected ? (
                 <>
@@ -560,10 +560,7 @@ export default function TicTacToeImproved() {
           }}>
             <p style={{ fontWeight: '600', marginBottom: '8px' }}>🚀 Características:</p>
             <ul style={{ paddingLeft: '20px', margin: 0 }}>
-              <li>Tiempo real con WebSocket</li>
-              <li>Chat entre jugadores</li>
-              <li>Sistema de puntuación</li>
-              <li>Reconexión automática</li>
+              <li>By AmaraX7 on GitHub</li>
             </ul>
           </div>
         </div>
